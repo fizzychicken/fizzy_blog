@@ -496,10 +496,10 @@ body {
   overflow-wrap: break-word;
 }
 .content p {
-  hyphens: auto;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  -webkit-hyphens: auto;
+  hyphens: manual;
+  -moz-hyphens: manual;
+  -ms-hyphens: manual;
+  -webkit-hyphens: manual;
 }
 .content code {
   hyphens: manual;
