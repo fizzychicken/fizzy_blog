@@ -586,7 +586,7 @@ body {
 }
 @media (min-width: 480px) {
   p {
-    text-align: left;
+    text-align: justify;
   }
 }
 #header {
