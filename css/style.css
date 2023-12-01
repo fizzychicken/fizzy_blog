@@ -586,7 +586,7 @@ body {
 }
 @media (min-width: 480px) {
   p {
-    text-align: justify;
+    text-align: left;
   }
 }
 #header {
@@ -1586,7 +1586,7 @@ pre {
   border: 1px dotted #908d8d;
   border-radius: 4px;
   font-size: 13px;
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: $system-ui;
   line-height: 22px;
   -webkit-border-radius: 4px;
 }
